@@ -66,3 +66,7 @@ This setup enables your application to configure and control DMA transactions fr
 ## Addres Map Vivado
 
 ![Addres Map Vivado](addres_map_vivado.png)
+
+## [Block Design Vivado](vivado_bd.tcl)
+
+![Addres Map Vivado](vivado_bd.png)
